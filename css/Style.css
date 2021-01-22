@@ -1,1 +1,12 @@
-.prova {color: #0065FC;}
+body {color: #0065FC;
+ font-family: Raleway;
+background-color: #F2F2F2;}
+head {color: #0065FC;}
+.flessibile {
+    display: flex;
+  }
+  .flessibile > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 16pt;
+  }
