@@ -1,5 +1,5 @@
 body {color: #0065FC;
- font-family: Raleway;
+ font-family: 'Raleway';
 background-color: #F2F2F2;}
 head {color: #0065FC;}
 .flessibile {
@@ -10,3 +10,11 @@ head {color: #0065FC;}
     padding: 20px;
     font-size: 16pt;
   }
+ .logo{float: left; 
+width: 20%;
+}
+ .menu{float:right;
+  width: 70%;
+}
+
+.intestazione{ justify-content: space-between;}
