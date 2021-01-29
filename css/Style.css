@@ -18,3 +18,13 @@ width: 20%;
 }
 
 .intestazione{ justify-content: space-between;}
+
+.scorrimento{
+flex-wrap: nowrap;
+overflow-x: auto;
+
+}
+
+.scheda{
+  flex: 0 0 auto;
+}
