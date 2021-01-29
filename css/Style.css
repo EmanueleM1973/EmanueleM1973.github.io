@@ -49,3 +49,23 @@ overflow-x: auto;
 .caption {
   display: block;
 }
+
+ /* unvisited link */
+.scheda > a:link {
+  color: #000000;
+}
+
+/* visited link */
+.scheda > a:visited {
+  color: #000000;
+}
+
+/* mouse over link */
+.scheda > a:hover {
+  color: #0065FC;
+}
+
+/* selected link */
+.scheda > a:active {
+  color: #000000;
+} 
